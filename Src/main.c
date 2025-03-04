@@ -1,4 +1,5 @@
 // Copyright ozforester, MIT License
+// забыл уменьшить делитель интегратора и усиление..
 
 #include "main.h"
 
