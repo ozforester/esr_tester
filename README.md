@@ -6,5 +6,5 @@ switch sn74lvc1g3157dvbr<br>
 oled ssd1306 (128x32)<br>
 sch and pcb (kicad)<br>
 in-circuit capacitors esr tester<BR><br>
-![plot](./esr.png)
+![plot](./esr.jpg)
 
