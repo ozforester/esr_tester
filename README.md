@@ -1,7 +1,7 @@
 # In Circuit ESR Tester
 batteries 2xAAA<br>
 uc stm32f030f4p6 (cmsis)<br>
-opa mcp6001<br>
+opamp mcp6001<br>
 switch sn74lvc1g3157dvbr<br>
 oled ssd1306 (128x32)<br>
 sch and pcb (kicad)<br>
