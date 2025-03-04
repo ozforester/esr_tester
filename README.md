@@ -5,5 +5,6 @@ opamp mcp6001<br>
 switch sn74lvc1g3157dvbr<br>
 oled ssd1306 (128x32)<br>
 sch and pcb (kicad)<br>
+![plot](./sch.png)
 ![plot](./esr.jpg)
 
