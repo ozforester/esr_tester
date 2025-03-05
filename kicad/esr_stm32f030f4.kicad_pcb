@@ -9,7 +9,9 @@
     (title "esr tester")
     (date "2025-02-11")
     (rev "1.5")
-    (company "ozforester")
+    (company "ozforester, vadim_d")
+    (comment 1 "http://www.cqham.ru/forum/showthread.php?47207")
+    (comment 2 "CC-BY-SA 4.0 License")
   )
 
   (layers
