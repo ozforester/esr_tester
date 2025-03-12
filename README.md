@@ -7,6 +7,8 @@ oled ssd1306 (128x32)<br>
 sch and pcb (kicad)<br>
 ![plot](./sch.png)
 ![plot](./esr.jpg)
+![plot](./prepared.jpg)
+![plot](./coated.jpg)
 Управляемый делитель операционника для тех,<br>
 кто решит экспериментировать с измерением<br>
 ёмкости (адаптируя частототу шимов под esr)<br>
